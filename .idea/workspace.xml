@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a938de46-c02f-405b-9ae0-313f193fd80f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="20ETvJ2rCJtWf5HCPDjOpAJMOUa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\OnlineCompiler\temp" />
+      <recent name="D:\Xammp\htdocs\OnlineCompiler" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a938de46-c02f-405b-9ae0-313f193fd80f" name="Default Changelist" comment="" />
+      <created>1635608975407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635608975407</updated>
+      <workItem from="1635608977966" duration="12965000" />
+      <workItem from="1635790170372" duration="6000" />
+      <workItem from="1635887150549" duration="28122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="71" key="FileChooserDialogImpl" timestamp="1635789681472">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="71" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1635789681472" />
+    <state x="554" y="324" key="NewPhpFileDialog" timestamp="1635609101666">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="554" y="324" key="NewPhpFileDialog/0.0.1536.864@0.0.1536.864" timestamp="1635609101666" />
+    <state x="328" y="171" key="com.intellij.ide.util.TipDialog" timestamp="1635790170633">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="328" y="171" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1635790170633" />
+    <state x="256" y="188" width="1009" height="1469" key="run.anything.popup" timestamp="1636125437373">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="256" y="188" width="1009" height="1469" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1636125437373" />
+    <state x="261" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1636116246418">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="261" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1636116246418" />
+  </component>
+</project>

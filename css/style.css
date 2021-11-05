@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+    color: white;
+    transition: all 1s ease-in;
+}
+.header{
+}
+
+.control-panel{
+}
+
+.languages{
+}
+
+#editor{ height: 70vh;}
+
+.button-container{
+}
+
+.btn{
+    font-size: 24px;
+    border:none;
+    padding: 20px;
+}
+.form-control{
+    font-size: 18px;
+    background-color: black;
+    color: white;
+}
+.output{
+    font-size: 20px;
+    height: auto;
+    min-height: 100%;
+    max-width: 500px;
+    text-align: left;
+    justify-content: left;
+
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    scroll-behavior: smooth;
+    width: 100%;
+}
+section#compiler{
+    display: flex;
+    flex-direction: column;
+    scroll-behavior: smooth;
+
+}
+.disapper{
+    animation: vanish 1s forwards;
+}
+@keyframes vanish {
+    100%{
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+.darkmode{
+    justify-content: right;
+    padding: 30px;
+    right: 0;
+    top: 0;
+    max-width: 100%;
+    align-items: end;
+    text-align: right;
+
+}
+#moon{
+    cursor: pointer;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+}
+.lightmode{
+    background-color: white;
+    color: black;
+}
